@@ -1,5 +1,1 @@
-# Third-party libraries used by rainfall_analysis.ipynb
 numpy
-jupyter
-# csv is part of the Python standard library - nothing to install.
-# To pin what you actually ran: pip freeze | grep -i numpy  ->  numpy==2.x.y
